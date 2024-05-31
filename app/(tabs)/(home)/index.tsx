@@ -5,7 +5,7 @@ export default function HomeScreen() {
   return (
     <View style={styles.container}>
       <Text>Home</Text>
-      <Link href="/details">View details</Link>
+      <Link href="/camera">View Camera</Link>
     </View>
   );
 }
